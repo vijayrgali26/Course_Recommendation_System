@@ -1,1 +1,2 @@
-# Course_Recommendation_System
+# course-recommendation-system
+AI driven course recommendation system
